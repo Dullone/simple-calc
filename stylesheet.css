@@ -1,0 +1,14 @@
+html{
+	box-sizing: border-box;
+}
+
+.calc-num{
+	background-color: #aaa;
+	border: 1px solid;
+	text-align: center;
+}
+.calc-operator{
+	background-color: #aaf;
+	border: 1px solid;
+	text-align: center;
+}
